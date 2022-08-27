@@ -1,8 +1,3 @@
-Visualizing Data with Leaflet
-
-#![Did You Feel IT](https://user-images.githubusercontent.com/99357833/187042736-63fd7652-88ec-41c4-8de5-4dd34d766cc0.jpg)
-
-# Background
 
 ![1-Logo](Images/1-Logo.png)
 
@@ -10,15 +5,15 @@ Welcome to the United States Geological Survey, or USGS for short! The USGS is r
 
 The USGS is interested in building a new set of tools that will allow them visualize their earthquake data. They collect a massive amount of data from all over the world each day, but they lack a meaningful way of displaying it. Their hope is that being able to visualize their data will allow them to better educate the public and other government organizations (and hopefully secure more funding..) on issues facing our planet.
 
-## Your Task
+## The Task
 
 ### Level 1: Basic Visualization
 
 ![2-BasicMap](Images/2-BasicMap.png)
 
-Your first task is to visualize an earthquake data set.
+The first task is to visualize an earthquake data set.
 
-1. **Get your data set**
+1. **Get the data set**
 
    ![3-Data](Images/3-Data.png)
 
@@ -58,12 +53,10 @@ In this step we are going to..
 
 ### Assessment
 
-Your final product will be assessed on the following metrics:
+The final product will be assessed based on following metrics:
 
 * Completion of assigned tasks
 
 * Visual appearance
 
 * Professionalism
-
-**Good luck!**
