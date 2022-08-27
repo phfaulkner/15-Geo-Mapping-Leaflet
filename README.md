@@ -1,6 +1,8 @@
 Visualizing Data with Leaflet
 
-## Background
+#![Did You Feel IT](https://user-images.githubusercontent.com/99357833/187042736-63fd7652-88ec-41c4-8de5-4dd34d766cc0.jpg)
+
+# Background
 
 ![1-Logo](Images/1-Logo.png)
 
